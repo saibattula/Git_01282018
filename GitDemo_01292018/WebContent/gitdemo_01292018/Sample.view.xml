@@ -4,8 +4,9 @@
 		<content>
 		    
 		    <Button id="btnCreate" text="Create" press="onCreate"></Button>
-		    <Button id="btnEdit" text="Edit" press="onEdit"></Button>
+		    <Button id="btnEdit" text="Edit" press="onEdit"></Button>		    
 		    <Button id="btnDelete" text="Delete" press="onDelete"></Button>
+		    <Button id="btnCancel" text="Cancel" press="onCancel"></Button>
 	
 		</content>
 	</Page>
