@@ -25,6 +25,10 @@ sap.ui.controller("gitdemo_01292018.Sample", {
 	onDelete: function(){
 		alert("Delete button pressed")
 	},
+	
+	onEdit: function(){
+		alert("Edit button pressed")
+	},
 
 /**
 * Called when the View has been rendered (so its HTML is part of the document). Post-rendering manipulations of the HTML could be done here.
